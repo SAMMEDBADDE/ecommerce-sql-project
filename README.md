@@ -27,3 +27,14 @@ This project analyzes customer orders, product performance, and revenue using SQ
 - Writing complex SQL queries
 - Data analysis using SQL
 - Database design basics
+
+- ## 📸 Project Screenshots
+
+### 🧾 Tables Created
+![Tables](images/tables.png)
+
+### 💰 Total Revenue
+![Revenue](images/revenue.png)
+
+### 🏆 Top Selling Products
+![Top Products](images/top_products.png)
