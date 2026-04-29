@@ -10,6 +10,7 @@ JOIN products p ON oi.product_id = p.id
 GROUP BY p.name
 ORDER BY total_sold DESC;
 
+
 -- Top Customers
 SELECT c.name, COUNT(o.id) AS total_orders
 FROM customers c
