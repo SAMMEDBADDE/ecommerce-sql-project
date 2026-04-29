@@ -3,7 +3,6 @@ SELECT SUM(p.price * oi.quantity) AS total_revenue
 FROM order_items oi
 JOIN products p ON oi.product_id = p.id;
 
-
 -- Top Selling Products
 SELECT p.name, SUM(oi.quantity) AS total_sold
 FROM order_items oi
