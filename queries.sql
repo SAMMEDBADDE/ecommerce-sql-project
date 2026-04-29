@@ -17,7 +17,7 @@ JOIN orders o ON c.id = o.customer_id
 GROUP BY c.name
 ORDER BY total_orders DESC;
 
--- Monthly Orders
+- - Monthly Orders
 SELECT MONTH(order_date) AS month, COUNT(*) AS total_orders
 FROM orders
 GROUP BY month;
