@@ -1,4 +1,4 @@
-# E-Commerce Analytics System (SQL Project)
+# E-Commerce Analytics System(SQL Project)
 
 ## 📌 Overview
 This project analyzes customer orders, product performance, and revenue using SQL.
