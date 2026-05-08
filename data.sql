@@ -1,3 +1,4 @@
+
 INSERT INTO customers (name, city) VALUES
 ('Amit', 'Pune'),
 ('Sneha', 'Mumbai'),
